@@ -1,1 +1,1 @@
-First semester of HSE IDA Minor is about learning Python basics. After the first two homework assignments, the lecturer decided to transfer the assignments to the Yandex.Contest system. That's why only two of them are presented here, I didn't save the later ones.
+Майнор "Интеллектуальный анализ данных" на ФКН ВШЭ. 
